@@ -1,0 +1,34 @@
+{
+    "numerical_features": [
+        "amount",
+        "origin_balance_before",
+        "destination_balance_before",
+        "step",
+        "hour",
+        "log_amount"
+    ],
+    "categorical_feature": "transaction_type",
+    "categories": [
+        "CASH_IN",
+        "CASH_OUT",
+        "DEBIT",
+        "PAYMENT",
+        "TRANSFER"
+    ],
+    "transformed_features": [
+        "amount",
+        "origin_balance_before",
+        "destination_balance_before",
+        "step",
+        "hour",
+        "log_amount",
+        "transaction_type_CASH_IN",
+        "transaction_type_CASH_OUT",
+        "transaction_type_DEBIT",
+        "transaction_type_PAYMENT",
+        "transaction_type_TRANSFER"
+    ],
+    "target": "target",
+    "dtype": "float32",
+    "scaler_fitted_on": "training_partition_only"
+}

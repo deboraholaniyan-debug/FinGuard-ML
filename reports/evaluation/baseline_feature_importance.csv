@@ -1,0 +1,12 @@
+feature,split_importance,gain_importance
+origin_balance_before,6,479955426.0
+transaction_type_CASH_IN,2,267875678.0
+log_amount,2,247607692.0
+amount,9,121129090.0
+hour,3,72753070.0
+step,3,37544440.0
+transaction_type_PAYMENT,2,33301800.0
+transaction_type_TRANSFER,2,16842150.0
+transaction_type_CASH_OUT,1,3923810.0
+destination_balance_before,0,0.0
+transaction_type_DEBIT,0,0.0

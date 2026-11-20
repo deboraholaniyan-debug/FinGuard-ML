@@ -1,0 +1,31 @@
+
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Datasets
+data/raw/*
+data/interim/*
+data/processed/*
+PS_20174392719_1491204439457_log.csv
+
+# Experimental model outputs
+models/class_weight_experiments/original_weight.txt
+models/class_weight_experiments/weight_25.txt
+models/class_weight_experiments/weight_50.txt
+
+# MLflow
+mlruns/
+
+# Temporary files
+*.log
+.DS_Store
