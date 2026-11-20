@@ -146,3 +146,7 @@ Build the image:
 ```bash
 docker build -t finguard-ml .
 ``
+###System Arch.
+<img width="974" height="3360" alt="AdobeExpressPhotos_39b7e05da17e43628d0aaf9ecc8e4014_CopyEdited" src="https://github.com/user-attachments/assets/dc0917b2-c328-4dc5-a018-83616d64d230" />
+
+
